@@ -1,0 +1,21 @@
+{
+  "name": "starterplaywright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kralock/starterplaywright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kralock/starterplaywright/issues"
+  },
+  "homepage": "https://github.com/Kralock/starterplaywright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.24.2"
+  }
+}
